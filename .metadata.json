@@ -1,0 +1,41 @@
+[
+  {
+    "package": "aphylo",
+    "oncran": true
+  },
+  {
+    "package": "cit",
+    "oncran": true
+  },
+  {
+    "package": "fmcmc",
+    "oncran": true
+  },
+  {
+    "package": "hJAM",
+    "oncran": true
+  },
+  {
+    "package": "LUCIDus",
+    "oncran": true
+  },
+  {
+    "package": "methcon5",
+    "oncran": true
+  },
+  {
+    "package": "partition",
+    "oncran": true
+  },
+  {
+    "package": "slurmR",
+    "oncran": true
+  },
+  {
+    "package": "xrnet",
+    "oncran": true
+  },
+  {
+    "package": "HiLDA"
+  }
+]
