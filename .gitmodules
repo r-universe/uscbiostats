@@ -38,8 +38,3 @@
 	url = https://github.com/uscbiostats/xrnet
 	shallow = true
 	registered = true
-[submodule "susieR"]
-	path = susieR
-	url = https://github.com/lailylajiang/susieR
-	shallow = true
-	registered = false
