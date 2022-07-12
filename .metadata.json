@@ -12,15 +12,7 @@
     "oncran": true
   },
   {
-    "package": "hJAM",
-    "oncran": true
-  },
-  {
     "package": "LUCIDus",
-    "oncran": true
-  },
-  {
-    "package": "methcon5",
     "oncran": true
   },
   {
@@ -34,8 +26,5 @@
   {
     "package": "xrnet",
     "oncran": true
-  },
-  {
-    "package": "HiLDA"
   }
 ]
