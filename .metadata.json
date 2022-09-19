@@ -16,14 +16,6 @@
     "oncran": true
   },
   {
-    "package": "LUCIDus",
-    "oncran": true
-  },
-  {
-    "package": "methcon5",
-    "oncran": true
-  },
-  {
     "package": "partition",
     "oncran": true
   },
@@ -34,8 +26,5 @@
   {
     "package": "xrnet",
     "oncran": true
-  },
-  {
-    "package": "HiLDA"
   }
 ]
