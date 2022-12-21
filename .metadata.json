@@ -1,5 +1,9 @@
 [
   {
+    "package": "aphylo",
+    "oncran": true
+  },
+  {
     "package": "cit",
     "oncran": true
   },
