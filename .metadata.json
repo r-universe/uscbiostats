@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "slurmR",
+    "package": "cit",
     "oncran": true
   },
   {
@@ -12,18 +12,10 @@
     "oncran": true
   },
   {
-    "package": "methcon5",
-    "oncran": true
-  },
-  {
-    "package": "xrnet",
-    "oncran": true
-  },
-  {
     "package": "HiLDA"
   },
   {
-    "package": "cit",
+    "package": "hJAM",
     "oncran": true
   },
   {
@@ -31,11 +23,19 @@
     "oncran": true
   },
   {
+    "package": "methcon5",
+    "oncran": true
+  },
+  {
     "package": "partition",
     "oncran": true
   },
   {
-    "package": "hJAM",
+    "package": "slurmR",
+    "oncran": true
+  },
+  {
+    "package": "xrnet",
     "oncran": true
   }
 ]
