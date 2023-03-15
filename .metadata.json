@@ -4,7 +4,7 @@
     "oncran": true
   },
   {
-    "package": "cit",
+    "package": "slurmR",
     "oncran": true
   },
   {
@@ -12,23 +12,7 @@
     "oncran": true
   },
   {
-    "package": "hJAM",
-    "oncran": true
-  },
-  {
-    "package": "LUCIDus",
-    "oncran": true
-  },
-  {
     "package": "methcon5",
-    "oncran": true
-  },
-  {
-    "package": "partition",
-    "oncran": true
-  },
-  {
-    "package": "slurmR",
     "oncran": true
   },
   {
@@ -37,5 +21,21 @@
   },
   {
     "package": "HiLDA"
+  },
+  {
+    "package": "cit",
+    "oncran": true
+  },
+  {
+    "package": "LUCIDus",
+    "oncran": true
+  },
+  {
+    "package": "partition",
+    "oncran": true
+  },
+  {
+    "package": "hJAM",
+    "oncran": true
   }
 ]

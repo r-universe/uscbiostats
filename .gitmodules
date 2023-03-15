@@ -8,9 +8,9 @@
 	url = https://github.com/uscbiostats/aphylo
 	shallow = true
 	registered = true
-[submodule "cit"]
-	path = cit
-	url = https://github.com/uscbiostats/cit
+[submodule "slurmR"]
+	path = slurmR
+	url = https://github.com/uscbiostats/slurmr
 	shallow = true
 	registered = true
 [submodule "fmcmc"]
@@ -18,29 +18,9 @@
 	url = https://github.com/uscbiostats/fmcmc
 	shallow = true
 	registered = true
-[submodule "hJAM"]
-	path = hJAM
-	url = https://github.com/uscbiostats/hjam
-	shallow = true
-	registered = true
-[submodule "LUCIDus"]
-	path = LUCIDus
-	url = https://github.com/uscbiostats/lucidus
-	shallow = true
-	registered = true
 [submodule "methcon5"]
 	path = methcon5
 	url = https://github.com/uscbiostats/methcon5
-	shallow = true
-	registered = true
-[submodule "partition"]
-	path = partition
-	url = https://github.com/uscbiostats/partition
-	shallow = true
-	registered = true
-[submodule "slurmR"]
-	path = slurmR
-	url = https://github.com/uscbiostats/slurmr
 	shallow = true
 	registered = true
 [submodule "xrnet"]
@@ -51,6 +31,26 @@
 [submodule "HiLDA"]
 	path = HiLDA
 	url = https://github.com/uscbiostats/hilda
+	shallow = true
+	registered = true
+[submodule "cit"]
+	path = cit
+	url = https://github.com/uscbiostats/cit
+	shallow = true
+	registered = true
+[submodule "LUCIDus"]
+	path = LUCIDus
+	url = https://github.com/uscbiostats/lucidus
+	shallow = true
+	registered = true
+[submodule "partition"]
+	path = partition
+	url = https://github.com/uscbiostats/partition
+	shallow = true
+	registered = true
+[submodule "hJAM"]
+	path = hJAM
+	url = https://github.com/uscbiostats/hjam
 	shallow = true
 	registered = true
 [submodule "susieR"]
