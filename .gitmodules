@@ -38,6 +38,11 @@
 	url = https://github.com/uscbiostats/methcon5
 	shallow = true
 	registered = true
+[submodule "modACDC"]
+	path = modACDC
+	url = https://github.com/uscbiostats/acdc
+	shallow = true
+	registered = true
 [submodule "partition"]
 	path = partition
 	url = https://github.com/uscbiostats/partition
