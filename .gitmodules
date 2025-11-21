@@ -5,6 +5,9 @@
 [submodule "LUCIDus"]
 	path = LUCIDus
 	url = https://github.com/uscbiostats/lucidus
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/uscbiostats/aphylo
 [submodule "cit"]
 	path = cit
 	url = https://github.com/uscbiostats/cit
