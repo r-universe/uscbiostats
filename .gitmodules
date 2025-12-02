@@ -8,6 +8,9 @@
 [submodule "aphylo"]
 	path = aphylo
 	url = https://github.com/uscbiostats/aphylo
+[submodule "barry"]
+	path = barry
+	url = https://github.com/uscbiostats/barryr
 [submodule "cit"]
 	path = cit
 	url = https://github.com/uscbiostats/cit
