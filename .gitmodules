@@ -20,9 +20,6 @@
 [submodule "fmcmc"]
 	path = fmcmc
 	url = https://github.com/uscbiostats/fmcmc
-[submodule "hJAM"]
-	path = hJAM
-	url = https://github.com/uscbiostats/hjam
 [submodule "methcon5"]
 	path = methcon5
 	url = https://github.com/uscbiostats/methcon5
