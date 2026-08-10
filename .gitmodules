@@ -32,10 +32,6 @@
 [submodule "slurmR"]
 	path = slurmR
 	url = https://github.com/uscbiostats/slurmr
-[submodule "susieR"]
-	path = susieR
-	url = https://github.com/lailylajiang/susieR
-	registered = false
 [submodule "xrnet"]
 	path = xrnet
 	url = https://github.com/uscbiostats/xrnet
